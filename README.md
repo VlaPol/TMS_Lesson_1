@@ -1,2 +1,2 @@
 # TMS_Lesson_1
-First Lesson
+First Lesson in TMS
